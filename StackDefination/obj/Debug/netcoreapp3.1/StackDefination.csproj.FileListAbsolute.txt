@@ -1,0 +1,13 @@
+C:\Repository\StackDefination\StackDefination\bin\Debug\netcoreapp3.1\StackDefination.exe
+C:\Repository\StackDefination\StackDefination\bin\Debug\netcoreapp3.1\StackDefination.deps.json
+C:\Repository\StackDefination\StackDefination\bin\Debug\netcoreapp3.1\StackDefination.runtimeconfig.json
+C:\Repository\StackDefination\StackDefination\bin\Debug\netcoreapp3.1\StackDefination.runtimeconfig.dev.json
+C:\Repository\StackDefination\StackDefination\bin\Debug\netcoreapp3.1\StackDefination.dll
+C:\Repository\StackDefination\StackDefination\bin\Debug\netcoreapp3.1\StackDefination.pdb
+C:\Repository\StackDefination\StackDefination\obj\Debug\netcoreapp3.1\StackDefination.csprojAssemblyReference.cache
+C:\Repository\StackDefination\StackDefination\obj\Debug\netcoreapp3.1\StackDefination.csproj.CoreCompileInputs.cache
+C:\Repository\StackDefination\StackDefination\obj\Debug\netcoreapp3.1\StackDefination.AssemblyInfoInputs.cache
+C:\Repository\StackDefination\StackDefination\obj\Debug\netcoreapp3.1\StackDefination.AssemblyInfo.cs
+C:\Repository\StackDefination\StackDefination\obj\Debug\netcoreapp3.1\StackDefination.dll
+C:\Repository\StackDefination\StackDefination\obj\Debug\netcoreapp3.1\StackDefination.pdb
+C:\Repository\StackDefination\StackDefination\obj\Debug\netcoreapp3.1\StackDefination.genruntimeconfig.cache
